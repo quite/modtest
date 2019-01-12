@@ -1,4 +1,4 @@
-package testpkg
+package foopkg
 
 import "fmt"
 
